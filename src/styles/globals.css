@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Define custom colors for light and dark themes */
+:root {
+  --background: #f8fafc; /* Light gray background as seen in the image */
+  --foreground: #1f2937; /* Text color for light mode */
+  --accent-color: #3b82f6; /* Blue for button hover states */
+}
+
+body {
+  color: var(--foreground);
+  background-color: var(--background);
+  font-family: 'Arial', 'Helvetica', sans-serif;
+}

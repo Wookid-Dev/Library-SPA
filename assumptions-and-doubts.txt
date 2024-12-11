@@ -1,0 +1,12 @@
+# Assumptions
+
+- For the product in general, I assumed is some sort of article reading platform that focuses on organization efficency/ways of working.
+- I assumed that this is just a wireframe exercise with minimal or mocked functionality, this means no API calls.
+- I assumed that I had 3 hours time spared in 3 days to work in the project.
+- I assumend the interface/schemas for the data received.
+- For simplicity and time reasons I mocked the api call using next js api feature (https://nextjs.org/docs/pages/building-your-application/routing/api-routes)
+- For simplicity too I only added a log for the request buttons to "simualte" a request.
+
+# Doubts
+
+- I did not understood the "Expanded asset section", or how would that work, would this be a different page or is it some sort of "scrollable" section?
